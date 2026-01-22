@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Animal Wallpaper 1",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/animal/animal1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Animal Wallpaper 2",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/animal/animal2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Animal Wallpaper 3",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/animal/animal3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Animal Wallpaper 4",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/animal/animal4.jpg"
+  }
+]
