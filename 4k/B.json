@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Cartoon Wallpaper 1",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/cartoon/cartoon1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cartoon Wallpaper 2",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/cartoon/cartoon2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Cartoon Wallpaper 3",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/cartoon/cartoon3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Cartoon Wallpaper 4",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/cartoon/cartoon4.jpg"
+  }
+]
