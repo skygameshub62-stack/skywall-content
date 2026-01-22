@@ -1,0 +1,19 @@
+{
+  "section": "wall",
+  "title": "Wall Wallpapers",
+  "version": 1,
+  "items": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/wall/images/wall_01.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/wall/images/wall_02.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/wall/images/wall_03.jpg"
+    }
+  ]
+}
