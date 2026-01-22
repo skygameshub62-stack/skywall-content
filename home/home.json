@@ -1,0 +1,26 @@
+{
+  "section": "home",
+  "title": "Home Wallpapers",
+  "items": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/home/images/home_1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/home/images/home_2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/home/images/home_3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/home/images/home_4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/home/images/home_5.jpg"
+    }
+  ]
+}
