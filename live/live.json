@@ -1,0 +1,18 @@
+{
+  "section": "live",
+  "title": "Live Wallpapers",
+  "items": [
+    {
+      "id": 1,
+      "video": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/live/videos/live_1.mp4"
+    },
+    {
+      "id": 2,
+      "video": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/live/videos/live_2.mp4"
+    },
+    {
+      "id": 3,
+      "video": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/live/videos/live_3.mp4"
+    }
+  ]
+}
