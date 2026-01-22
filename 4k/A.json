@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "God Wallpaper 1",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/god/god1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "God Wallpaper 2",
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/images/god/god2.jpg"
+  }
+]
