@@ -1,320 +1,219 @@
-[
-  {
-    "id": 1,
-    "title": "Cartoon Wallpaper 1",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_1.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Cartoon Wallpaper 2",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_2.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Cartoon Wallpaper 3",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_3.jpg"
-  },
-  {
-    "id": 4,
-    "title": "Cartoon Wallpaper 4",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_4.jpg"
-  },
-  {
-    "id": 5,
-    "title": "Cartoon Wallpaper 5",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_5.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Cartoon Wallpaper 6",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_6.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Cartoon Wallpaper 7",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_7.jpg"
-  },
-  {
-    "id": 8,
-    "title": "Cartoon Wallpaper 8",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_8.jpg"
-  },
-  {
-    "id": 9,
-    "title": "Cartoon Wallpaper 9",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_9.jpg"
-  },
-  {
-    "id": 10,
-    "title": "Cartoon Wallpaper 10",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_10.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Cartoon Wallpaper 11",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_11.jpg"
-  },
-  {
-    "id": 12,
-    "title": "Cartoon Wallpaper 12",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_12.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Cartoon Wallpaper 13",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_13.jpg"
-  },
-  {
-    "id": 14,
-    "title": "Cartoon Wallpaper 14",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_14.jpg"
-  },
-  {
-    "id": 15,
-    "title": "Cartoon Wallpaper 15",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_15.jpg"
-  },
-  {
-    "id": 16,
-    "title": "Cartoon Wallpaper 16",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_16.jpg"
-  },
-  {
-    "id": 17,
-    "title": "Cartoon Wallpaper 17",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_17.jpg"
-  },
-  {
-    "id": 18,
-    "title": "Cartoon Wallpaper 18",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_18.jpg"
-  },
-  {
-    "id": 19,
-    "title": "Cartoon Wallpaper 19",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_19.jpg"
-  },
-  {
-    "id": 20,
-    "title": "Cartoon Wallpaper 20",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_20.jpg"
-  },
-  {
-    "id": 21,
-    "title": "Cartoon Wallpaper 21",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_21.jpg"
-  },
-  {
-    "id": 22,
-    "title": "Cartoon Wallpaper 22",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_22.jpg"
-  },
-  {
-    "id": 23,
-    "title": "Cartoon Wallpaper 23",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_23.jpg"
-  },
-  {
-    "id": 24,
-    "title": "Cartoon Wallpaper 24",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_24.jpg"
-  },
-  {
-    "id": 25,
-    "title": "Cartoon Wallpaper 25",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_25.jpg"
-  },
-  {
-    "id": 26,
-    "title": "Cartoon Wallpaper 26",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_26.jpg"
-  },
-  {
-    "id": 27,
-    "title": "Cartoon Wallpaper 27",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_27.jpg"
-  },
-  {
-    "id": 28,
-    "title": "Cartoon Wallpaper 28",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_28.jpg"
-  },
-  {
-    "id": 29,
-    "title": "Cartoon Wallpaper 29",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_29.jpg"
-  },
-  {
-    "id": 30,
-    "title": "Cartoon Wallpaper 30",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_30.jpg"
-  },
-  {
-    "id": 31,
-    "title": "Cartoon Wallpaper 31",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_31.jpg"
-  },
-  {
-    "id": 32,
-    "title": "Cartoon Wallpaper 32",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_32.jpg"
-  },
-  {
-    "id": 33,
-    "title": "Cartoon Wallpaper 33",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_33.jpg"
-  },
-  {
-    "id": 34,
-    "title": "Cartoon Wallpaper 34",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_34.jpg"
-  },
-  {
-    "id": 35,
-    "title": "Cartoon Wallpaper 35",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_35.jpg"
-  },
-  {
-    "id": 36,
-    "title": "Cartoon Wallpaper 36",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_36.jpg"
-  },
-  {
-    "id": 37,
-    "title": "Cartoon Wallpaper 37",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_37.jpg"
-  },
-  {
-    "id": 38,
-    "title": "Cartoon Wallpaper 38",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_38.jpg"
-  },
-  {
-    "id": 39,
-    "title": "Cartoon Wallpaper 39",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_39.jpg"
-  },
-  {
-    "id": 40,
-    "title": "Cartoon Wallpaper 40",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_40.jpg"
-  },
-  {
-    "id": 41,
-    "title": "Cartoon Wallpaper 41",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_41.jpg"
-  },
-  {
-    "id": 42,
-    "title": "Cartoon Wallpaper 42",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_42.jpg"
-  },
-  {
-    "id": 43,
-    "title": "Cartoon Wallpaper 43",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_43.jpg"
-  },
-  {
-    "id": 44,
-    "title": "Cartoon Wallpaper 44",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_44.jpg"
-  },
-  {
-    "id": 45,
-    "title": "Cartoon Wallpaper 45",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_45.jpg"
-  },
-  {
-    "id": 46,
-    "title": "Cartoon Wallpaper 46",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_46.jpg"
-  },
-  {
-    "id": 47,
-    "title": "Cartoon Wallpaper 47",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_47.jpg"
-  },
-  {
-    "id": 48,
-    "title": "Cartoon Wallpaper 48",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_48.jpg"
-  },
-  {
-    "id": 49,
-    "title": "Cartoon Wallpaper 49",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_49.jpg"
-  },
-  {
-    "id": 50,
-    "title": "Cartoon Wallpaper 50",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_50.jpg"
-  },
-  {
-    "id": 51,
-    "title": "Cartoon Wallpaper 51",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_51.jpg"
-  },
-  {
-    "id": 52,
-    "title": "Cartoon Wallpaper 52",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_52.jpg"
-  },
-  {
-    "id": 53,
-    "title": "Cartoon Wallpaper 53",
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_53.jpg"
-  }
-]
+{
+  "section": "4k_cartoon",
+  "title": "4K Cartoon Wallpapers",
+  "version": 1,
+  "items": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_7.jpg"
+    },
+    {
+      "id": 8,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_8.jpg"
+    },
+    {
+      "id": 9,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_9.jpg"
+    },
+    {
+      "id": 10,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_10.jpg"
+    },
+    {
+      "id": 11,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_11.jpg"
+    },
+    {
+      "id": 12,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_12.jpg"
+    },
+    {
+      "id": 13,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_13.jpg"
+    },
+    {
+      "id": 14,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_14.jpg"
+    },
+    {
+      "id": 15,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_15.jpg"
+    },
+    {
+      "id": 16,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_16.jpg"
+    },
+    {
+      "id": 17,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_17.jpg"
+    },
+    {
+      "id": 18,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_18.jpg"
+    },
+    {
+      "id": 19,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_19.jpg"
+    },
+    {
+      "id": 20,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_20.jpg"
+    },
+    {
+      "id": 21,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_21.jpg"
+    },
+    {
+      "id": 22,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_22.jpg"
+    },
+    {
+      "id": 23,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_23.jpg"
+    },
+    {
+      "id": 24,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_24.jpg"
+    },
+    {
+      "id": 25,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_25.jpg"
+    },
+    {
+      "id": 26,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_26.jpg"
+    },
+    {
+      "id": 27,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_27.jpg"
+    },
+    {
+      "id": 28,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_28.jpg"
+    },
+    {
+      "id": 29,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_29.jpg"
+    },
+    {
+      "id": 30,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_30.jpg"
+    },
+    {
+      "id": 31,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_31.jpg"
+    },
+    {
+      "id": 32,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_32.jpg"
+    },
+    {
+      "id": 33,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_33.jpg"
+    },
+    {
+      "id": 34,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_34.jpg"
+    },
+    {
+      "id": 35,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_35.jpg"
+    },
+    {
+      "id": 36,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_36.jpg"
+    },
+    {
+      "id": 37,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_37.jpg"
+    },
+    {
+      "id": 38,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_38.jpg"
+    },
+    {
+      "id": 39,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_39.jpg"
+    },
+    {
+      "id": 40,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_40.jpg"
+    },
+    {
+      "id": 41,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_41.jpg"
+    },
+    {
+      "id": 42,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_42.jpg"
+    },
+    {
+      "id": 43,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_43.jpg"
+    },
+    {
+      "id": 44,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_44.jpg"
+    },
+    {
+      "id": 45,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_45.jpg"
+    },
+    {
+      "id": 46,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_46.jpg"
+    },
+    {
+      "id": 47,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_47.jpg"
+    },
+    {
+      "id": 48,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_48.jpg"
+    },
+    {
+      "id": 49,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_49.jpg"
+    },
+    {
+      "id": 50,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_50.jpg"
+    },
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_51.jpg"
+    },
+    {
+      "id": 52,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_52.jpg"
+    },
+    {
+      "id": 53,
+      "image": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/4k/images/cartoon_53.jpg"
+    }
+  ]
+}
