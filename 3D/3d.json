@@ -22,12 +22,12 @@
       "mid": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/2/mid.png",
       "fg": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/2/fg.png",
       "motion": {
-        "bg_strength_x": 0,
+        "bg_strength_x": 4,
         "bg_strength_y": 0,
         "mid_strength_x": 0,
-        "mid_strength_y": 0,
-        "fg_strength_x": -0,
-        "fg_strength_y": -0
+        "mid_strength_y": 8,
+        "fg_strength_x": -12,
+        "fg_strength_y": 0
       }
     }
   ]
