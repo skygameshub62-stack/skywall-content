@@ -1,24 +1,33 @@
 {
   "section": "3d",
-  "title": "3D Wallpapers",
   "version": 1,
   "items": [
     {
       "id": 1,
       "bg": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/1/bg.jpg",
+      "mid": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/1/mid.png",
       "fg": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/1/fg.png",
       "motion": {
-        "bg_strength": 4,
-        "fg_strength": 12
+        "bg_strength_x": 4,
+        "bg_strength_y": 0,
+        "mid_strength_x": 0,
+        "mid_strength_y": 8,
+        "fg_strength_x": -12,
+        "fg_strength_y": 0
       }
     },
     {
       "id": 2,
       "bg": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/2/bg.jpg",
+      "mid": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/2/mid.png",
       "fg": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/2/fg.png",
       "motion": {
-        "bg_strength": 4,
-        "fg_strength": 12
+        "bg_strength_x": 5,
+        "bg_strength_y": 3,
+        "mid_strength_x": 6,
+        "mid_strength_y": 6,
+        "fg_strength_x": -15,
+        "fg_strength_y": -5
       }
     }
   ]
