@@ -23,11 +23,11 @@
       "fg": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/3D/2/fg.png",
       "motion": {
         "bg_strength_x": 2,
-        "bg_strength_y": 9,
+        "bg_strength_y": 20,
         "mid_strength_x": 6,
         "mid_strength_y": 6,
         "fg_strength_x": -1,
-        "fg_strength_y": -5
+        "fg_strength_y": -20
       }
     }
   ]
