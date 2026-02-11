@@ -1,1 +1,18 @@
-
+{
+  "section": "live",
+  "title": "Category B - Exclusive Live",
+  "items": [
+    {
+      "id":1,
+      "video": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/live/videos/Blive1.mp4"
+    },
+    {
+      "id":2,
+      "video": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/live/videos/Blive2.mp4"
+    },
+     {
+      "id":3,
+      "video": "https://raw.githubusercontent.com/skygameshub62-stack/skywall-content/main/live/videos/Blive3.mp4"
+    }
+  ]
+}
