@@ -50,7 +50,7 @@
         "mid_scale": 2,
         "fg_strength_x": 0,
         "fg_strength_y": 5,
-        "fg_scale": 1
+        "fg_scale": 0.70
       }
     }
   ]
