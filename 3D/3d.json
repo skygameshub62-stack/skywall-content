@@ -47,7 +47,7 @@
         "bg_scale": 1,
         "mid_strength_x": -2,
         "mid_strength_y": -8,
-        "mid_scale": 2,
+        "mid_scale": 1,
         "fg_strength_x": -5,
         "fg_strength_y": -3,
         "fg_scale": 1
