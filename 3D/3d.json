@@ -45,11 +45,11 @@
         "bg_strength_x": 0,
         "bg_strength_y": 0,
         "bg_scale": 1,
-        "mid_strength_x": 2,
-        "mid_strength_y": 8,
+        "mid_strength_x": -2,
+        "mid_strength_y": -8,
         "mid_scale": 2,
-        "fg_strength_x": -4,
-        "fg_strength_y": -1,
+        "fg_strength_x": 4,
+        "fg_strength_y": 1,
         "fg_scale": 1
       }
     }
